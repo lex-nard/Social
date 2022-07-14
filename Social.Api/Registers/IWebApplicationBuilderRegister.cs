@@ -1,6 +1,7 @@
 ﻿namespace Social.Api.Registers
 {
-    public interface IWebApplicationBuilderRegister
+    public interface IWebApplicationBuilderRegister : IRegister
     {
+        public void RegisterServices(WebApplicationBuilder builder);
     }
 }
