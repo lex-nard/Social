@@ -1,0 +1,12 @@
+D:\FELIPE\Code\TestProject\TestProject\Social.Domain\bin\Debug\net6.0\Social.Domain.deps.json
+D:\FELIPE\Code\TestProject\TestProject\Social.Domain\bin\Debug\net6.0\Social.Domain.dll
+D:\FELIPE\Code\TestProject\TestProject\Social.Domain\bin\Debug\net6.0\Social.Domain.pdb
+D:\FELIPE\Code\TestProject\TestProject\Social.Domain\obj\Debug\net6.0\Social.Domain.csproj.AssemblyReference.cache
+D:\FELIPE\Code\TestProject\TestProject\Social.Domain\obj\Debug\net6.0\Social.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\FELIPE\Code\TestProject\TestProject\Social.Domain\obj\Debug\net6.0\Social.Domain.AssemblyInfoInputs.cache
+D:\FELIPE\Code\TestProject\TestProject\Social.Domain\obj\Debug\net6.0\Social.Domain.AssemblyInfo.cs
+D:\FELIPE\Code\TestProject\TestProject\Social.Domain\obj\Debug\net6.0\Social.Domain.csproj.CoreCompileInputs.cache
+D:\FELIPE\Code\TestProject\TestProject\Social.Domain\obj\Debug\net6.0\Social.Domain.dll
+D:\FELIPE\Code\TestProject\TestProject\Social.Domain\obj\Debug\net6.0\refint\Social.Domain.dll
+D:\FELIPE\Code\TestProject\TestProject\Social.Domain\obj\Debug\net6.0\Social.Domain.pdb
+D:\FELIPE\Code\TestProject\TestProject\Social.Domain\obj\Debug\net6.0\ref\Social.Domain.dll

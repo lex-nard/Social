@@ -1,0 +1,12 @@
+D:\FELIPE\Code\TestProject\TestProject\Social.Application\bin\Debug\net6.0\Social.Application.deps.json
+D:\FELIPE\Code\TestProject\TestProject\Social.Application\bin\Debug\net6.0\Social.Application.dll
+D:\FELIPE\Code\TestProject\TestProject\Social.Application\bin\Debug\net6.0\Social.Application.pdb
+D:\FELIPE\Code\TestProject\TestProject\Social.Application\obj\Debug\net6.0\Social.Application.csproj.AssemblyReference.cache
+D:\FELIPE\Code\TestProject\TestProject\Social.Application\obj\Debug\net6.0\Social.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\FELIPE\Code\TestProject\TestProject\Social.Application\obj\Debug\net6.0\Social.Application.AssemblyInfoInputs.cache
+D:\FELIPE\Code\TestProject\TestProject\Social.Application\obj\Debug\net6.0\Social.Application.AssemblyInfo.cs
+D:\FELIPE\Code\TestProject\TestProject\Social.Application\obj\Debug\net6.0\Social.Application.csproj.CoreCompileInputs.cache
+D:\FELIPE\Code\TestProject\TestProject\Social.Application\obj\Debug\net6.0\Social.Application.dll
+D:\FELIPE\Code\TestProject\TestProject\Social.Application\obj\Debug\net6.0\refint\Social.Application.dll
+D:\FELIPE\Code\TestProject\TestProject\Social.Application\obj\Debug\net6.0\Social.Application.pdb
+D:\FELIPE\Code\TestProject\TestProject\Social.Application\obj\Debug\net6.0\ref\Social.Application.dll

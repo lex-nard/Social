@@ -1,0 +1,12 @@
+D:\FELIPE\Code\TestProject\TestProject\Social.Data\bin\Debug\net6.0\Social.Data.deps.json
+D:\FELIPE\Code\TestProject\TestProject\Social.Data\bin\Debug\net6.0\Social.Data.dll
+D:\FELIPE\Code\TestProject\TestProject\Social.Data\bin\Debug\net6.0\Social.Data.pdb
+D:\FELIPE\Code\TestProject\TestProject\Social.Data\obj\Debug\net6.0\Social.Data.csproj.AssemblyReference.cache
+D:\FELIPE\Code\TestProject\TestProject\Social.Data\obj\Debug\net6.0\Social.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\FELIPE\Code\TestProject\TestProject\Social.Data\obj\Debug\net6.0\Social.Data.AssemblyInfoInputs.cache
+D:\FELIPE\Code\TestProject\TestProject\Social.Data\obj\Debug\net6.0\Social.Data.AssemblyInfo.cs
+D:\FELIPE\Code\TestProject\TestProject\Social.Data\obj\Debug\net6.0\Social.Data.csproj.CoreCompileInputs.cache
+D:\FELIPE\Code\TestProject\TestProject\Social.Data\obj\Debug\net6.0\Social.Data.dll
+D:\FELIPE\Code\TestProject\TestProject\Social.Data\obj\Debug\net6.0\refint\Social.Data.dll
+D:\FELIPE\Code\TestProject\TestProject\Social.Data\obj\Debug\net6.0\Social.Data.pdb
+D:\FELIPE\Code\TestProject\TestProject\Social.Data\obj\Debug\net6.0\ref\Social.Data.dll
