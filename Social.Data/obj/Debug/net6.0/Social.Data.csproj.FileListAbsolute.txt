@@ -10,3 +10,8 @@ D:\FELIPE\Code\TestProject\TestProject\Social.Data\obj\Debug\net6.0\Social.Data.
 D:\FELIPE\Code\TestProject\TestProject\Social.Data\obj\Debug\net6.0\refint\Social.Data.dll
 D:\FELIPE\Code\TestProject\TestProject\Social.Data\obj\Debug\net6.0\Social.Data.pdb
 D:\FELIPE\Code\TestProject\TestProject\Social.Data\obj\Debug\net6.0\ref\Social.Data.dll
+D:\FELIPE\Code\TestProject\TestProject\Social.Data\bin\Debug\net6.0\Social.Data.runtimeconfig.json
+D:\FELIPE\Code\TestProject\TestProject\Social.Data\bin\Debug\net6.0\Social.Domain.dll
+D:\FELIPE\Code\TestProject\TestProject\Social.Data\bin\Debug\net6.0\Social.Domain.pdb
+D:\FELIPE\Code\TestProject\TestProject\Social.Data\obj\Debug\net6.0\Social.Data.csproj.CopyComplete
+D:\FELIPE\Code\TestProject\TestProject\Social.Data\obj\Debug\net6.0\Social.Data.genruntimeconfig.cache

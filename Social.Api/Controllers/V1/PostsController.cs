@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Social.Domain.Models;
 
 namespace Social.Api.Controllers.V1
 {
@@ -12,9 +11,8 @@ namespace Social.Api.Controllers.V1
         [Route("{id}")]
         public IActionResult GetById(Guid id)
         {
-            var post = new Post { Id = id, Text = "May the Force be with you" };
 
-            return Ok(post);
+            return Ok();
         }
     }
 }

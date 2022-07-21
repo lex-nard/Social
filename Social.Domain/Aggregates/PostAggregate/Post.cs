@@ -10,12 +10,12 @@ namespace Social.Domain.Aggregates.PostAggregate
     public class Post
     {
 
-        private readonly List<PostComment> _comments = new();
-        private readonly List<PostInteraction> _interactions = new();
+        private List<PostComment> _comments = new();
+        private List<PostInteraction> _interactions = new();
         private Post()
         {
-            Comments = new List<PostComment>();
-            Interactions = new List<PostInteraction>();
+            _comments = new List<PostComment>();
+            _interactions = new List<PostInteraction>();
         }
 
         public Guid Id { get; private set; }

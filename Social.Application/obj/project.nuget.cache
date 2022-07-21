@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "uDhAHu690LlndlWTgzbZpvxV3UF7yJBgTMOR8EvvGItCxZye0D4G8MrWqPNUCOCEu0wAaFHRx4Ac+F7EZNLgVg==",
+  "dgSpecHash": "m1E0qws883xGJVMTh2eKFlBlw/1pgJuj52RNcvYltG/ijc0cueOLv7JdrAQ+4r3ANzWUkPKOfGpJJzQ633/QNw==",
   "success": true,
   "projectFilePath": "D:\\FELIPE\\Code\\TestProject\\TestProject\\Social.Application\\Social.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "D:\\Users\\PECEGE\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.7\\microsoft.entityframeworkcore.6.0.7.nupkg.sha512",
+    "D:\\Users\\PECEGE\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.7\\microsoft.entityframeworkcore.abstractions.6.0.7.nupkg.sha512",
+    "D:\\Users\\PECEGE\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.7\\microsoft.entityframeworkcore.analyzers.6.0.7.nupkg.sha512",
+    "D:\\Users\\PECEGE\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "D:\\Users\\PECEGE\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
+    "D:\\Users\\PECEGE\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "D:\\Users\\PECEGE\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "D:\\Users\\PECEGE\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "D:\\Users\\PECEGE\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "D:\\Users\\PECEGE\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "D:\\Users\\PECEGE\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "D:\\Users\\PECEGE\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "D:\\Users\\PECEGE\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "D:\\Users\\PECEGE\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Social.Domain.Models;
 
 namespace Social.Api.Controllers.V2
 {
@@ -12,9 +11,8 @@ namespace Social.Api.Controllers.V2
         [Route("{id}")]
         public IActionResult GetById(Guid id)
         {
-            var post = new Post { Id = id, Text = "Are you expecting something to happen?" };
 
-            return Ok(post);
+            return Ok();
         }
     }
 }
