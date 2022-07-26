@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "m1E0qws883xGJVMTh2eKFlBlw/1pgJuj52RNcvYltG/ijc0cueOLv7JdrAQ+4r3ANzWUkPKOfGpJJzQ633/QNw==",
+  "dgSpecHash": "/gdeH+tKvLyl8vcgnleSRRGvqcOq7nkV9aT4r1L0Wt5kdulRjjw7sJHdVGicKI3iXmFMbd6MOhm2/oykiSboaQ==",
   "success": true,
   "projectFilePath": "D:\\FELIPE\\Code\\TestProject\\TestProject\\Social.Application\\Social.Application.csproj",
   "expectedPackageFiles": [
+    "D:\\Users\\PECEGE\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "D:\\Users\\PECEGE\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "D:\\Users\\PECEGE\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "D:\\Users\\PECEGE\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "D:\\Users\\PECEGE\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.7\\microsoft.entityframeworkcore.6.0.7.nupkg.sha512",
     "D:\\Users\\PECEGE\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.7\\microsoft.entityframeworkcore.abstractions.6.0.7.nupkg.sha512",
     "D:\\Users\\PECEGE\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.7\\microsoft.entityframeworkcore.analyzers.6.0.7.nupkg.sha512",
